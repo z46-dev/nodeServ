@@ -1,0 +1,7 @@
+{
+    "name": "nodeserv",
+    "version": "v1.0.0",
+    "description": "A simple node.js Server module",
+    "main": "index.js",
+    "type": "module"
+}
